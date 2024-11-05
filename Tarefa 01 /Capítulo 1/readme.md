@@ -1,4 +1,4 @@
-# Capítulo 1 - Introdução ao Design de Sistemas de Machine Learning
+# Capítulo 1: Introdução ao Design de Sistemas de Machine Learning
 
 **Link do video no youtube: https://www.youtube.com/watch?v=QJIJvs5w03k**
 
