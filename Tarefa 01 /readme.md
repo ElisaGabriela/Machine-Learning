@@ -2,7 +2,7 @@
 **Nome: Elisa Gabriela Machado de Lucena**
 
 
-Este repositório contém meus resumos dos primeiros cinco capítulos do livro Designing Machine Learning Systems de Chip Huyen. Para a atividade 01 da disciplina Machine Learning do Programa de Pós Graduação em Engenharia Elétrica e de Computação (PPGEEC), ministrada pelo professor Ivanovitch Medeiros Dantas da Silva.
+Este repositório contém os resumos dos primeiros cinco capítulos do livro Designing Machine Learning Systems de Chip Huyen. Para a atividade 01 da disciplina Machine Learning do Programa de Pós Graduação em Engenharia Elétrica e de Computação (PPGEEC), ministrada pelo professor Ivanovitch Medeiros Dantas da Silva.
 Cada capítulo foi condensado em um vídeo de até 5 minutos, abordando as principais ideias e pontos-chave.
 
 * **Vídeo 1 : https://youtu.be/QJIJvs5w03k**
