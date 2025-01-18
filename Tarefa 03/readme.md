@@ -114,7 +114,7 @@ Esses ajustes tornam o Adam mais robusto e controlado, especialmente em treiname
 
 # Visualizando os Gradientes Adaptativos
 
-Agora que a gente entende melhor os gradientes, que tal gerar uma vizualização? Os códigos utilizados para gerar as visualizações são do livro Deep Learning with PyTorch Step-by-Step. Apesar do livro possuir seu próprio repositório no Github, o código comentado passo a passo pode ser visto [aqui]().
+Agora que a gente entende melhor os gradientes, que tal gerar uma vizualização? Os códigos utilizados para gerar as visualizações são do livro Deep Learning with PyTorch Step-by-Step. Apesar do livro possuir seu próprio repositório no Github, o código comentado passo a passo pode ser visto [aqui](https://github.com/ElisaGabriela/Machine-Learning/blob/main/Tarefa%2003/Tarefa3.ipynb).
 
 
 Vamos usar um problema simples de regressão linear, executar o loop de treinamento para que possamos registrar os gradientes. Vamos ilustrar os efeitos de diferentes parâmetros na minimização da perda.
