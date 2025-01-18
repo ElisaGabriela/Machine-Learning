@@ -2,7 +2,9 @@
 
 ##### Nome: Elisa Gabriela Machado de Lucena
 
-[Link do artigo no medium](https://medium.com/@elisa.lucena.127/ml-com-pytorch-adaptive-learning-rates-momentum-e-learning-rate-schedulers-211db8b9e367)
+* [Link do artigo no medium](https://medium.com/@elisa.lucena.127/ml-com-pytorch-adaptive-learning-rates-momentum-e-learning-rate-schedulers-211db8b9e367)
+
+* [Notebook do desenvolvimento do trabalho](https://github.com/ElisaGabriela/Machine-Learning/blob/main/Tarefa%2003/Tarefa3.ipynb)
 
 
 Este repositório tem como objetivo explorar alguns conceitos do capítulo 6 do livro 'Deep Learning with PyTorch" de Daniel Godoy:
