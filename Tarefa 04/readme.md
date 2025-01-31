@@ -56,8 +56,11 @@ Os resultados obtidos podem ser vistos na figura abaixo:
 
 ![img](https://cdn-images-1.medium.com/max/1100/1*Y8JOEUAcxUqf0Gp5dblU0A.png)
 
+## Escolha do método
+
 A decisão entre fine-tuning e feature extraction depende da complexidade da nova tarefa, do tamanho do conjunto de dados disponível e da similaridade entre as tarefas prévia e atual. Em geral, o fine-tuning tende a oferecer melhor desempenho quando há dados suficientes disponíveis, enquanto o Feature Extraction é mais apropriado para conjuntos de dados menores ou quando o treinamento do modelo completo é computacionalmente custoso.
 
+![img](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*PjFqIsF5KA6vTyEpnQm4Vg.jpeg)
 
 
 
